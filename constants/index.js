@@ -1,0 +1,1 @@
+export { default as MAP } from './Map'
